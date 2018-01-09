@@ -1,0 +1,65 @@
+### Keep or kill?
+
+- [ ] Cashpoint
+  - Updated _2 yrs ago_, linked to [funding_applications](https://github.com/vinspired/vwidget/blob/staging/app/controllers/funding_applications_controller.rb)
+- [ ] Do Something
+  - Updated _4 yrs ago_..... No clue what's happening here, I like the title tho
+- [ ] Donations
+  - Updated _9 months ago_ by Blaz under the helpful commit message of ["wip"](https://github.com/vinspired/vwidget/commit/fb68351ba09650a261f1a3a734ab41d30fc7864b)
+- [ ] Friends
+  - Updated _9 months ago_ by Blaz under the most helpful commit message of ["wip"](https://github.com/vinspired/vwidget/commit/fb68351ba09650a261f1a3a734ab41d30fc7864b)
+- [ ] Enquiries
+  - Updated _4 yrs ago_.
+  - posibly something to do with ym and the contact form that wasn't working..
+- [ ] Equality Survey Submissions
+  - Updated _8 months ago_.
+  - Updated last on _may the 4th be with you_ by blaz
+  - Looks like a super specialised thing that most likely had a one time use, again saved under the most helpful commit of ["wip"](https://github.com/vinspired/vwidget/commit/b5c39ffd6903a7bd0647297d17e5e718cbfc5b00)
+- [ ] Events
+  - Smells like tech dept........
+- [ ] Features
+  - Updated _2 months ago_.
+  - *[to investigate](https://github.com/vinspired/vwidget/blob/staging/app/controllers/features_controller.rb)*
+- [ ] junction 94
+  - Updated _9 months ago_.
+  - last updated 24 april
+  - looks like a special use for some project possibly some cashpoint project
+- [ ] missing user information
+  - Updated _9 months ago_.
+  - last updated 24 april - _wip_
+  - looks like a special error handling
+- [ ] newsletters
+  - Updated _4 yrs ago_.
+  - subscribes to some mailing list
+  - need to investigate what mailing list
+- [ ] organisation users
+  - Updated _2 yrs ago_.
+  - left over from when users were removed from vwidget database
+- [ ] opportunities
+  - Updated _5 months ago_.
+  - smells like more tech dept
+- [ ] posts
+  - Updated _9 months ago_.
+  - adding posts to projects
+  - who uses this?
+- [ ] project categories
+  - Updated _4 yrs ago_.
+  - some sort of categorisation of projects
+- [ ] project searches
+  - Updated _10 months ago_.
+- [ ] project users
+  - Updated _2 months ago_.
+- [ ] projects
+  - Updated _2 months ago_.
+- [ ] saved images
+  - Updated _7 months ago_.
+  - maybe still in use, needs more investigation
+- [ ] shares
+  - Updated _10 months ago_.
+  - seems to be tracking when users share projects
+- [ ] user features
+  - Updated _2 yrs ago_.
+- [ ] widget
+  - Updated _5 yrs ago_.
+- [ ] wireframes
+  - Updated _4 yrs ago_.
