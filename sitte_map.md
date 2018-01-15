@@ -144,3 +144,11 @@
     - [x] https://vinspired.com/corporate-and-trust/corporate-partners/heathrow-community-fund
       - [x] cashpoint
       - [x] More about vInspired Education
+
+---
+- [x] footer nav
+  - [x] resources https://vinspired.com/resources
+  - [x] staying safe on vinspired https://vinspired.com/staying-safe-on-vinspired
+  - [x] privacy https://vinspired.com/privacy
+  - [x] accessibility https://vinspired.com/accessibility
+  - [x] external help http://help.vinspired.com/help_center 
