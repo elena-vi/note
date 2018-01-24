@@ -1,3 +1,5 @@
+## magical script to fix mysql not being able to ge root passowrd
+
 ```bash
 $ sudo mysql
 ```
